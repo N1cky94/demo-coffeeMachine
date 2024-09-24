@@ -10,7 +10,7 @@ Have the following installed:
 Clone the project:
 Move into the project directory or the place you want the directory (`cd Desktop/demo`) to be and run the following command:
 ```bash
-git clone https://github.com/nbt7dbb/coffee-machine-demo.git
+git clone https://github.com/N1cky94/demo-coffeeMachine.git
 ```
 
 Open the project in IntelliJ IDEA and run the `CoffeeApp` class.
